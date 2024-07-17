@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.book-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.book-list li {
+  background: #f4f4f4;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.book-list h2 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.book-list p {
+  margin: 0;
+  color: #555;
+}
